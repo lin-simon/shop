@@ -9,7 +9,9 @@ mouse
 # Usage
 To run the script, use the following command:
 
-python main.py
+```
+cpython main.py
+```
 The script will continuously search for bookmarks on the screen, and if it finds them, it will attempt to purchase them. It will also refresh the page and scroll through the listings to search for more bookmarks.
 
 # Configuration
