@@ -6,7 +6,7 @@ pynput
 pyautogui
 mouse
 
-#Usage
+# Usage
 To run the script, use the following command:
 
 python main.py
